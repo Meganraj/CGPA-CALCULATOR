@@ -1,6 +1,4 @@
-Sure! Here’s the updated README file content for your project named "CGPA Calculator":
 
----
 
 # CGPA Calculator
 
