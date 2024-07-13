@@ -11,7 +11,7 @@ This project is a CGPA Calculator implemented in Python using Tkinter for the gr
 - [Usage](#usage)
 - [Screenshots](https://github.com/Meganraj/CGPA-CALCULATOR/tree/main/Screenshots)
 - [Contributing](#contributing)
-- [License]([#license](https://github.com/Meganraj/CGPA-CALCULATOR/blob/main/LICENSE))
+- [License](https://github.com/Meganraj/CGPA-CALCULATOR/blob/main/LICENSE)
 
 ## Features
 - Student Dashboard
@@ -71,4 +71,9 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 5. Open a pull request.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE]((https://github.com/Meganraj/CGPA-CALCULATOR/blob/main/LICENSE)) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
+
+
+
