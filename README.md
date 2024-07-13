@@ -9,7 +9,7 @@ This project is a CGPA Calculator implemented in Python using Tkinter for the gr
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
+- [Screenshots](https://github.com/Meganraj/CGPA-CALCULATOR/tree/main/Screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 
